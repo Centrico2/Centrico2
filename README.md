@@ -21,15 +21,4 @@ git clone https://github.com/cnetrico-2/bot-controller.git
 cd bot-controller
 
 
-npm install
-
-node index.js
-
----
-
-
-- 24hrs
-- terminal output
-- CENTRICO-XMD 
--  Heroku
-
+ 
