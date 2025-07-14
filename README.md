@@ -19,3 +19,17 @@ A Node.js-powered bot you can control easily. Download it via GitHub and start a
 ```bash
 git clone https://github.com/cnetrico-2/bot-controller.git
 cd bot-controller
+
+
+npm install
+
+node index.js
+
+---
+
+
+- 24hrs
+- terminal output
+- CENTRICO-XMD 
+-  Heroku
+
