@@ -1,4 +1,4 @@
-# 🤖 Bot Controller
+# 🤖 Bot
 
 A Node.js-powered bot you can control easily. Download it via GitHub and start automating with minimal setup.
 
